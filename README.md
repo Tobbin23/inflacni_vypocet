@@ -8,6 +8,7 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 <p> pip3 install -r requirements.txt </p>
 
 ```bash
+
 # test
 ```
 
