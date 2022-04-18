@@ -12,5 +12,10 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 
 ```
 
+![color json](https://user-images.githubusercontent.com/67708830/163801772-599d1aa1-6bf5-4077-b82a-4932045a0ba9.png)
 
-
+```bash
+#  Zadáte kolik máte naspořeno, nebo chcete uspořit. !Poviný!
+#  Zadáte výši inflace ! vylitelná hodnota, ale musí být zadána !
+#  Zadáte počet let. "Odedneška do ". Poviný
+```
