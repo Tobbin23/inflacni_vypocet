@@ -34,3 +34,15 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 # Modré pole, slouží jako hystorie vašich výpočtů.
 # Snadno ji můžete smazat, klepnutím na ikonu koše.
 ```
+
+Pokud mě chcete podpořit a přitom i získat 10$ v BTC použijte prosím tento referrl link:
+[Referral-Coinbase](https://www.coinbase.com/join/szava_j?src=android-link)
+
+Nebo přímo poslat crypto na peněženku:
+| Crpytoměny | Adresa |
+| --- | --- |
+| Bitcoin (BTC) | https://user-images.githubusercontent.com/67708830/163583376-c3c61675-0204-4b3d-9610-895442895473.jpeg |
+| Ethereum (ETH) |https://user-images.githubusercontent.com/67708830/163583741-d4f3ee25-f213-40e5-927e-b6eef941a087.jpeg |
+| Litecoin (LTC) | https://user-images.githubusercontent.com/67708830/163584027-84391e53-3732-4666-9214-f4a50c9b363f.jpeg |
+| Algorand (ALGO) | https://user-images.githubusercontent.com/67708830/163584019-76f54d0c-f26c-4431-831c-997823a47018.jpeg |
+
