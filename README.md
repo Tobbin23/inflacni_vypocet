@@ -24,7 +24,8 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 ```bash
 #  Zadáte kolik máte naspořeno, nebo chcete uspořit. !Poviný!
 #  Zadáte výši inflace ! vylitelná hodnota, ale musí být zadána !
-#  Zadáte počet let. "Odedneška do ". Poviný
+#  Zadáte počet let. "Odedneška do ". Poviný!
+#  Pro výpočet klikente na ikonu ($).
 ```
 ![plna](https://user-images.githubusercontent.com/67708830/163803135-9cb550ed-fc3a-40a1-88d1-8ac06db951ce.png)
 
