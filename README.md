@@ -11,6 +11,14 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 # pip3 install -r requirements.txt 
 
 ```
+```bash
+$ git clone https://github.com/Tobbin23/financni__kalkulacka.git
+$ cd financni__kalkulacka
+$ python3 instalace.py
+
+```
+
+
 <h4>Úvodní obrazovka</h4>
 
 
