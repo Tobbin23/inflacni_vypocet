@@ -1,9 +1,2 @@
-[Desktop Entry]
-Icon=/home/ /Plocha/kalkulacka/image/cash.ico
-Exec=python3 /home/ /Plocha/kalkulacka/kalkulacka.py
-Terminal=false
-Type=Application
-Categories=None;
-StartupNotify=false
-Name[cs]=Inflační Kalkulačka
+
 
