@@ -7,6 +7,8 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 <h3> Instalace </h3>
 <p> pip3 install -r requirements.txt </p>
 <p> nebo </p>
-<p> python3 -m pip install -r requirements.txt </p>
+´´´bash
+
+´´´
 
 
