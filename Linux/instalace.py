@@ -1,6 +1,14 @@
 import os
 
-def instalace():
+
+def priprava():
+	priprav = os.path.dirname(os.path.realpath(__file__))
+	spustitelny = "kalkulacka.desktop"
+	if os.path.exists(spustitelny):
+		instalace(spoustec=spustitelny)
+	else:
+		print("neni")
+def instalace(spoustec):
 	path_1 = os.path.join(os.path.dirname(os.path.realpath(__file__)),"kalkulacka.py")
 	path_2 = os.path.join(os.path.dirname(os.path.realpath(__file__)),"image/cash.ico")
 	
@@ -12,6 +20,7 @@ def instalace():
 		"Categories=None\n"\
 		"StartupNotify=false\n"\
 		"Name[cs]=Inflační Kalkulačka"
-	with open("kalkulacka_2.desktop", mode="w") as zapis:
+	with open(spoustec, mode="w") as zapis:
 		zapis.write(codo)
-instalace()
+#instalace()
+priprava()
