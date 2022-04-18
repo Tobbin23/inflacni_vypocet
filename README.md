@@ -6,10 +6,9 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 
 <h3> Instalace </h3>
 ```bash
-# pip3 install -r requirements.txt </p>
-```
+# pip3 install -r requirements.txt 
 
-```bash
+```
 
 ```
 
