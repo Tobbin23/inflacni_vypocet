@@ -13,7 +13,7 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 ```
 ```bash
 $ git clone https://github.com/Tobbin23/financni__kalkulacka.git
-$ cd financni__kalkulacka
+$ cd Linux/financni__kalkulacka
 $ python3 instalace.py
 
 ```
