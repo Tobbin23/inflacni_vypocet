@@ -22,9 +22,10 @@ def ama(f="./image/Draw_money.png", maxsize=(400,200)):
 image_exit = "./image/Action-exit-icon.png"
 image_dolar = "./image/USD.png"
 image_trash = "./image/trash2.png"
-layout1 = [[sg.Image(data=ama(),size=(400,200),key="-mage-")]]
+layout1 = [[sg.Image(data=ama(),size=(400,200),key="-mage-")],
+           [sg.Text("Tobbin23",size=(20,2), pad=(80,2))]]
 
-layout2 = [[sg.Text('Zjistěte kolik udělá inflace s vašemí penězi',size=(40,2))],
+layout2 = [[sg.Text('Zjistěte, jak inflace ovliňuje vaše úspory',size=(40,2))],
            
            [sg.Text("Úspory",size=(7,1), 
                     pad=(5,2)), sg.Input(size=(25,25),
@@ -73,6 +74,7 @@ layout2 = [[sg.Text('Zjistěte kolik udělá inflace s vašemí penězi',size=(4
             sg.Button(image_filename=image_trash,
                       size=(10,1), pad=(80,0),
                       key="-smazat-")]
+           #[sg.Text("__autor__Tobbin23")]
            ]
 layout = [[sg.Column(layout1),
            sg.Column(layout2)]]
