@@ -12,8 +12,9 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 
 ```
 <h4>Úvodní obrazovka</h4>
+![uvodni](https://user-images.githubusercontent.com/67708830/163803116-c5431420-4552-4b65-a856-d380f8db7534.png)
 
-![color json](https://user-images.githubusercontent.com/67708830/163801772-599d1aa1-6bf5-4077-b82a-4932045a0ba9.png)
+
 
 
 
@@ -22,4 +23,10 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 #  Zadáte výši inflace ! vylitelná hodnota, ale musí být zadána !
 #  Zadáte počet let. "Odedneška do ". Poviný
 ```
-![plna](https://user-images.githubusercontent.com/67708830/163802340-390df167-919a-4580-8294-3cb1d871ecd0.png)
+![plna](https://user-images.githubusercontent.com/67708830/163803135-9cb550ed-fc3a-40a1-88d1-8ac06db951ce.png)
+
+
+```bash
+# Modré pole, slouží jako hystorie vašich výpočtů.
+# Snadno ji můžete smazat, klepnutím na ikonu koše.
+```
