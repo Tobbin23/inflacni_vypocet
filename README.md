@@ -4,13 +4,13 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 
 <img src="https://user-images.githubusercontent.com/67708830/152659745-3ba1adb4-c489-4d84-a6f6-a087847a8ca8.png" width="520" />
 
-<h3> Instalace </h3>
+<h2> Instalace </h2>
 
 ```bash
 
 # pip3 install -r requirements.txt 
 ```
-<h2> Linux </h2>
+<h3> Linux </h3>
 
 ```bash
 $ git clone https://github.com/Tobbin23/financni__kalkulacka.git
@@ -19,7 +19,7 @@ $ python3 instalace.py
 
 ```
 
-<h2> Windows </h2>
+<h3> Windows </h3>
 
 ```bash
 # download ZIP
