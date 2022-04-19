@@ -18,13 +18,14 @@ $ cd Linux/financni__kalkulacka
 $ python3 instalace.py
 
 ```
+
 <h2> Windows </h2>
+
 ```bash
 # download ZIP
 # extrahovat .zip
 $ cd C:\Users\Uživatel\Downloads\financni__kalkulacka/Windows
 $ pyinstaller -w -F -i "image/cash.ico" kalkulacka.py
-
 ```
 
 <h4>Úvodní obrazovka</h4>
@@ -42,8 +43,12 @@ $ pyinstaller -w -F -i "image/cash.ico" kalkulacka.py
 #  Zadáte výši inflace ! vylitelná hodnota, ale musí být zadána !
 #  Zadáte počet let. "Od dnes do (počet let) ". Poviný!
 #  Pro výpočet klikente na ikonu ($).
+
 ```
+
+
 <img src="https://user-images.githubusercontent.com/67708830/163803135-9cb550ed-fc3a-40a1-88d1-8ac06db951ce.png" />
+
 
 
 ```bash
