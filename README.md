@@ -15,6 +15,7 @@ Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžné
 ```bash
 $ git clone https://github.com/Tobbin23/financni__kalkulacka.git
 $ cd Linux/financni__kalkulacka
+$ pip3 install -r requirements.txt 
 $ python3 instalace.py
 
 ```
@@ -25,7 +26,10 @@ $ python3 instalace.py
 # download ZIP
 # extrahovat .zip
 $ cd C:\Users\Uživatel\Downloads\financni__kalkulacka/Windows
+$ pip3 install -r requirements.txt 
 $ pyinstaller -w -F -i "image/cash.ico" kalkulacka.py
+# Vyjměte "Aplikaci" ze složky "dist" a vložte do složky Windows
+
 ```
 
 <h4>Úvodní obrazovka</h4>
