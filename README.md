@@ -2,28 +2,36 @@
 Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžném účtu, nebo pod polšářem.
 <h4> Použití je jednoduché a snadné</h4>
 
-![Draw_money](https://user-images.githubusercontent.com/67708830/152659745-3ba1adb4-c489-4d84-a6f6-a087847a8ca8.png)
+<img src="https://user-images.githubusercontent.com/67708830/152659745-3ba1adb4-c489-4d84-a6f6-a087847a8ca8.png" />
 
 <h3> Instalace </h3>
 
 ```bash
 
 # pip3 install -r requirements.txt 
-
 ```
+<h2> Linux </h2>
+
 ```bash
 $ git clone https://github.com/Tobbin23/financni__kalkulacka.git
 $ cd Linux/financni__kalkulacka
 $ python3 instalace.py
 
 ```
+<h2> Windows </h2>
+```bash
+# download ZIP
+# extrahovat .zip
+$ cd C:\Users\Uživatel\Downloads\financni__kalkulacka/Windows
+$ pyinstaller -w -F -i "image/cash.ico" kalkulacka.py
 
+```
 
 <h4>Úvodní obrazovka</h4>
 
 
 
-![uvodni](https://user-images.githubusercontent.com/67708830/163803116-c5431420-4552-4b65-a856-d380f8db7534.png)
+<img src="https://user-images.githubusercontent.com/67708830/163803116-c5431420-4552-4b65-a856-d380f8db7534.png" />
 
 
 
@@ -35,7 +43,7 @@ $ python3 instalace.py
 #  Zadáte počet let. "Od dnes do (počet let) ". Poviný!
 #  Pro výpočet klikente na ikonu ($).
 ```
-![plna](https://user-images.githubusercontent.com/67708830/163803135-9cb550ed-fc3a-40a1-88d1-8ac06db951ce.png)
+<img src="https://user-images.githubusercontent.com/67708830/163803135-9cb550ed-fc3a-40a1-88d1-8ac06db951ce.png" />
 
 
 ```bash
