@@ -1,4 +1,4 @@
-<h1 align="center"> Financni kalkulacka</h1>
+<h1 align="center"> Inflační výpočet</h1>
 Jak inflace znehodnotí vaše dlouhodobé úspory, at' už je má te na běžném účtu, nebo pod polšářem.
 <h4> Použití je jednoduché a snadné</h4>
 
