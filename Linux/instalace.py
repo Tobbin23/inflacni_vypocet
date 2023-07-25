@@ -1,5 +1,5 @@
 import os
-
+25.7.2,23
 
 def priprava():
 	priprav = os.path.dirname(os.path.realpath(__file__))
